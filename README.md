@@ -1,11 +1,13 @@
-# TakeShape Starter Vanilla JS
+# TakeShape Starter JavaScript
 
-The following is a guide to launching a Vanilla JS TakeShape project that injects Ecommerce data into HTML markup.
+The following is a guide to launching a JavaScript TakeShape project that injects Ecommerce data into HTML markup.
 
 
 ## Instructions
 
-1. Create a TakeShape project with the pattern `Shape Shop`. [Checkout our docs on creating a project to learn more](https://app.takeshape.io/docs/get-started/create-project).
+1. Create a TakeShape project with the pattern in this repo. The button below will deploy the 
+
+* [![Deploy on TakeShape button](./images/deploy-button.png)](https://app.takeshape.io/add-to-takeshape?repo=https://github.com/takeshape/takeshape-starter-javascript/tree/main/.takeshape/pattern)
 
 2. Follow our documentation to [create a read-only API Key](https://app.takeshape.io/docs/api/api-keys).
 
