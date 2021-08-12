@@ -1,11 +1,11 @@
 (async ()=> {
     try{        
         const result = await fetch(
-            'https://api.takeshape.io/project/6cdbcc52-5697-475b-872e-fcb6fd0e00d0/v3/graphql',
+            'YOUR-ENDPOINT-HERE',
             {
                 method: 'POST',
                 headers: {
-                    'Authorization':'Bearer 6091d7bc2d8946e290486e1526483eda', 
+                    'Authorization':'Bearer YOUR-API-KEY-HERE', 
                     'Content-Type':'application/json'
                 },
                 body: JSON.stringify({

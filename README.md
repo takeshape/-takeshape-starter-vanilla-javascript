@@ -15,7 +15,7 @@ The following is a guide to launching a JavaScript TakeShape project that inject
 
 ![Useful Snippets](./images/useful-snippets.png)
 
-4. In the terminal on your local machine, clone this repo with `git clone https://github.com/takeshape/takeshape-starter-javascript.`
+4. In the terminal on your local machine, clone this repo with `git clone https://github.com/takeshape/takeshape-starter-javascript`
 
 5. Open the project directory and edit `takeshape-example.js` and replace the text that says `YOUR-ENDPOINT-HERE` with your API Endpoint. Replace the text that says `YOUR-API-KEY-HERE` with your API Key.
 
